@@ -43,7 +43,7 @@ for phrase in PHRASE_LIST:
 
 load_phrases_dict({"若陀": [["rě"], ["tuó"]], "平藏": [["píng"], ["zàng"]],
     "派蒙": [["pài"], ["méng"]], "安柏": [["ān"], ["bó"]],
-    "一斗": [["yī"], ["dǒu"]]
+    "一斗": [["yī"], ["dǒu"]], "卡蜜": [["kā"], ["mi"]], "我超": [["wǒ"], ["chào"]]
     })
 
 # Regular expression matching whitespace:
