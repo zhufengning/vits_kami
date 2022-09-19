@@ -110,7 +110,7 @@ def run(rank, n_gpus, hps):
         print("loaded checkpoint")
     except Exception as e:
         print("no checkpoint", e)
-        os._exit(1)
+        # os._exit(1)
         epoch_str = 1
         global_step = 0
 
